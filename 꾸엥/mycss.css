@@ -1,0 +1,16 @@
+@font-face { font-family: 'Handon3gyeopsal300g'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_seven@1.2/Handon3gyeopsal300g.woff') format('woff'); font-weight: normal; font-style: normal; }
+div{
+    background-color: #F2F5A9;
+    color: #82FA58;
+    font-family: Handon3gyeopsal300g;
+}
+p{
+    color: rgb(191, 0, 255,);
+}
+.nav{
+    postion: fixed;
+    top:0;
+}
+.box{
+    height:50%;
+}
